@@ -50,7 +50,7 @@ TSQL-Fundamentals-Study-Notes/
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
 - Transact-SQL (T-SQL)
-- AdventureWorks Sample Database
+- TSQLV6 Sample Database
 
 ## My Learning Approach
 
