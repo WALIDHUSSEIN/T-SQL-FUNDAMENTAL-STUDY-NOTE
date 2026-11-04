@@ -66,7 +66,8 @@ Each topic is approached through:
 
 - [x] Chapter 01 – Database Fundamentals
 - [x] Chapter 02 – Single-Table Queries
-- [x ] Chapter 03 – Joins
+- [x] Chapter 03 – Joins
+- [x] Chapter 4: Subqueries
 - [ ] Remaining chapters – In Progress
 
 ## My Goal
